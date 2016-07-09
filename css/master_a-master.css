@@ -1,0 +1,44 @@
+#u69
+{
+	position: fixed;
+}
+
+#slideshowu75
+{
+	position: relative;
+}
+
+#u95
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u96,#u125,#u194,#u203,#u212,#u221,#u230,#u239,#u248,#u257,#u266,#u275,#u284,#u293,#u322,#u331,#u340,#u349
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F4F4F;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u360
+{
+	color: #FFFFFF;
+}
+
+#u360-4,#u358-4
+{
+	color: #FFFFFF;
+	position: fixed;
+}
+
